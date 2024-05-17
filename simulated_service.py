@@ -9,4 +9,5 @@ def simulated_service():
         time.sleep(10)
 
 if __name__ == '__main__':
+    # Apenas um ajuste no corpo dos dados
     simulated_service()
